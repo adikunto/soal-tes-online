@@ -2,3 +2,4 @@ Rencana
 - buat 1 soal setiap pekan
 - edit tiap hari
 - satu selesai dalam 3 tahun
+- buat aplikasi soal online
